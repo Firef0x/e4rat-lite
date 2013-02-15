@@ -109,11 +109,11 @@ F</etc/e4rat-lite.conf>
 =head1 AUTOR
 
 e4rat foi escrito por Andreas Rid e Gunfolf Kiefer.
-e4rat-lite escrito por Vinycius Maia.
+e4rat-lite escrito por Lara Maia.
 
 =head1 REPORTANDO BUGS
 
-Reporte bugs para Vinycius Maia <suportevg@uol.com.br>
+Reporte bugs para Lara Maia <lara@craft.net.br>
 
 =head1 LEIA TAMBÉM
 

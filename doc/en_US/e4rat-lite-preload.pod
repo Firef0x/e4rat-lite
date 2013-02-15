@@ -61,11 +61,11 @@ F</etc/e4rat-lite.conf>
 
 e4rat written by Andreas Rid and Gundolf Kiefer.
 e4rat-preload-lite written by John Lindgren
-e4rat-lite written by Vinycius Maia.
+e4rat-lite written by Lara Maia.
 
 =head1 REPORTING BUGS
 
-Report bugs to Vinycius Maia <suportevg@uol.com.br>
+Report bugs to Lara Maia <lara@craft.net.br>
 
 =head1 SEE ALSO
 

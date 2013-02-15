@@ -79,11 +79,11 @@ F</etc/e4rat-lite.conf>
 =head1 AUTHOR
 
 e4rat has been written by Andreas Rid and Gundolf Kiefer.
-e4rat-lite writen by Vinycius Maia.
+e4rat-lite writen by Lara Maia.
 
 =head1 REPORTING BUGS
 
-Report bugs to Vinycius Maia <suportevg@uol.com.br>
+Report bugs to Lara Maia <lara@craft.net.br>
 
 =head1 SEE ALSO
 

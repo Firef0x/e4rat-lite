@@ -1,5 +1,5 @@
 /* e4rat-lite: (2012) (http://goo.gl/IXP3n)
- * written by Vinycius Maia <suportevg@uol.com.br> 
+ * written by Lara Maia <lara@craft.net.br> 
  * 
  * e4rat-preload-lite: (2011)
  * written by John Lindgren

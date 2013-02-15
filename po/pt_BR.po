@@ -1,7 +1,7 @@
 # e4rat-lite é uma versão melhorada do e4rat, um conjunto de ferramentas
 # para acelerar o processo de inicialização.
 #
-# Copyright (C) 2012 - Vinycius Maia <suportevg@uol.com.br>
+# Copyright (C) 2012 - Lara Maia <lara@craft.net.br>
 #
 # Este arquivo é distribuido sob a mesma licença do pacote e4rat-lite.
 # Para mais informações consulte o arquivo LICENSE.
@@ -9,10 +9,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: e4rat-lite 2.6\n"
-"Report-Msgid-Bugs-To: suportevg@uol.com.br\n"
+"Report-Msgid-Bugs-To: lara@craft.net.br\n"
 "POT-Creation-Date: 2012-06-03 18:15-0300\n"
 "PO-Revision-Date: 2012-06-12 22:55-0300\n"
-"Last-Translator: Vinycius Maia <suportevg@uol.com.br>\n"
+"Last-Translator: Lara Maia <lara@craft.net.br>\n"
 "Language-Team: Brazillian Portuguese"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"

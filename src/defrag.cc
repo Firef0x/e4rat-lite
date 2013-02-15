@@ -2,7 +2,7 @@
  * defrag.cc - Operations on relevant file defragmentation
  *
  * Copyright (C) 2011 by Andreas Rid
- * Copyright (C) 2012 by Vinycius Maia
+ * Copyright (C) 2012 by Lara Maia
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

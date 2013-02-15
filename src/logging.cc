@@ -2,7 +2,7 @@
  * logging.cc - Display screen and or send event to klog or syslog
  *
  * Copyright (C) 2011 by Andreas Rid
- * Copyright (C) 2012 by Vinycius Maia <suportevg@uol.com.br>
+ * Copyright (C) 2012 by Lara Maia <lara@craft.net.br>
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
